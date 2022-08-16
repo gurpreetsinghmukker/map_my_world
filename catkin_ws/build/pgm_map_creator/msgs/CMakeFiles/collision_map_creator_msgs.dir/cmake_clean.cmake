@@ -11,8 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/collision_map_creator_msgs.dir/vector2d.pb.cc.o"
   "CMakeFiles/collision_map_creator_msgs.dir/header.pb.cc.o"
   "CMakeFiles/collision_map_creator_msgs.dir/time.pb.cc.o"
-  "/home/gurpreet/workspace/project_3/catkin_ws/devel/lib/libcollision_map_creator_msgs.pdb"
-  "/home/gurpreet/workspace/project_3/catkin_ws/devel/lib/libcollision_map_creator_msgs.so"
+  "/home/gurpreet/workspace/map_my_world/catkin_ws/devel/lib/libcollision_map_creator_msgs.pdb"
+  "/home/gurpreet/workspace/map_my_world/catkin_ws/devel/lib/libcollision_map_creator_msgs.so"
 )
 
 # Per-language clean rules from dependency scanning.

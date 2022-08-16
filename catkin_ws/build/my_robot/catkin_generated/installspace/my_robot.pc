@@ -1,4 +1,4 @@
-prefix=/home/gurpreet/workspace/project_3/catkin_ws/install
+prefix=/home/gurpreet/workspace/map_my_world/catkin_ws/install
 
 Name: my_robot
 Description: Description of my_robot

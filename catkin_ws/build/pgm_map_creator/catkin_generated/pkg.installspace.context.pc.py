@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "pgm_map_creator"
-PROJECT_SPACE_DIR = "/home/gurpreet/workspace/project_3/catkin_ws/install"
+PROJECT_SPACE_DIR = "/home/gurpreet/workspace/map_my_world/catkin_ws/install"
 PROJECT_VERSION = "0.0.0"

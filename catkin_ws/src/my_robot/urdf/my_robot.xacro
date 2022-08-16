@@ -138,15 +138,15 @@
     </visual>
   
   </link> 
-  <joint type="fixed" name="camera_joint">
-    <origin xyz="0.4 0 0" rpy="0 0 0"/>
+ <joint type="fixed" name="camera_joint">
+    <origin xyz="0.4 0 0" rpy="-1.5707 0 -1.5707"/>
     <axis xyz="0 1 0"/>
-    <child link="camera"/>
+    <child link="camera_link_optical"/>
     <parent link="chassis"/>
   </joint>
 
-  <link name ="camera">
-    <origin xyz="0 0 0" rpy="0 0 0"/>
+   <link name ="camera_link_optical">
+    <origin xyz="0 0 0" rpy="0 1.5707 0"/>
     <geometry>
       <box size="0.05 0.05 0.05"/>
     </geometry>

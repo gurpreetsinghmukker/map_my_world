@@ -1,4 +1,4 @@
-prefix=/home/gurpreet/workspace/project_3/catkin_ws/install
+prefix=/home/gurpreet/workspace/map_my_world/catkin_ws/install
 
 Name: teleop_twist_keyboard
 Description: Description of teleop_twist_keyboard
