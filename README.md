@@ -54,20 +54,7 @@ Following photos show the 3d map before and after the optimization process,
 
 RTAB map can out multiple different types of maps such as 2D occupancy grid map, 3D occupancy grid map or a 3D point cloud map. 
 
-<table>
-  <tr>
-    <td>3D Point Cloud</td>
-     <td>Occupancy Grid Map</td>
-     <td>2D MAP</td>
-  </tr>
-  <tr>
-    <td><img src="images/3d_point_cloud.gif" alt="animated" style="width: 100%" /></td>
-    <td><img src="images/occupancy_grid_map.gif" alt="animated" style="width: 100%" /></td>
-    <td><img src="images/2d_map.png" alt="animated" style="width: 100%" /></td>
-  </tr>
- </table>
-
-label 1 | label 2 | asdas
+3D Point Cloud | Occupancy Grid Map | 2D Map
 --- | --- | ---
 ![](images/3d_point_cloud.gif) | ![](images/occupancy_grid_map.gif)|![](images/2d_map.png)
 
