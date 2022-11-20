@@ -68,7 +68,7 @@ RTAB map can out multiple different types of maps such as 2D occupancy grid map,
  </table>
 
 label 1 | label 2 | asdas
---- | ---
-![](images/3d_point_cloud.gif) | ![](images/occupancy_grid_map.gif)|![](images/2d_map.pn)
+--- | --- | ---
+![](images/3d_point_cloud.gif) | ![](images/occupancy_grid_map.gif)|![](images/2d_map.png)
 
 
