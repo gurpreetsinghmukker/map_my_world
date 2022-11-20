@@ -57,13 +57,13 @@ RTAB map can out multiple different types of maps such as 2D occupancy grid map,
 
 <div class="row">
   <div class="column">
-  <img src="images/3d_point_cloud.gif" alt="animated" style="width: 100%" />
+  <img src="images/3d_point_cloud.gif" alt="animated" style="width: 33.33%" />
   </div>
   <div class="column">
-  <img src="images/occupancy_grid_map.gif" alt="animated" style="width: 100%" />
+  <img src="images/occupancy_grid_map.gif" alt="animated" style="width: 33.33%" />
   </div>
   <div class="column">
-  <img src="images/2d_map.png" alt="animated" style="width: 50%" />
+  <img src="images/2d_map.png" alt="animated" style="width: 33.33%" />
   </div>
 </div> 
 
